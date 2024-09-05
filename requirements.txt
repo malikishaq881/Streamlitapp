@@ -1,2 +1,2 @@
 sckit-learn
-Streamlitapp
+streamlit
